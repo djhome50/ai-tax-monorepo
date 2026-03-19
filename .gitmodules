@@ -1,0 +1,12 @@
+[submodule "FrappeBased/frappe"]
+	path = FrappeBased/frappe
+	url = https://github.com/djhome50/frappe.git
+[submodule "FrappeBased/erpnext"]
+	path = FrappeBased/erpnext
+	url = https://github.com/djhome50/erpnext.git
+[submodule "FrappeBased/ai_tax"]
+	path = FrappeBased/ai_tax
+	url = https://github.com/djhome50/ai_tax.git
+[submodule "Custom"]
+	path = Custom
+	url = https://github.com/djhome50/ai-tax-custom.git
